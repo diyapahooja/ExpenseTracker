@@ -97,5 +97,5 @@ The database layer and full GUI flow (login → dashboard → add transaction �
 search/filter → charts → budgets) were tested end-to-end before delivery,
 including a headless Xvfb run of the actual Tkinter/CustomTkinter window.
 
-##👤 Author
+## Author
 Diya Pahooja
